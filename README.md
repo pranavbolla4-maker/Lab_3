@@ -13,9 +13,8 @@ Input:  Bill Amount: $50.00, Tip Percentage: 15%
 Output: Tip Amount: $7.50, Total Bill: $57.50
 
 ## Team Members
-- [Your Name]
-- [Partner Name]
-
+- [Sri Sai Pranav Bolla]
+- [Andre Davis]
 ## Notes
 - Input validation included: rejects non-numeric entries and negative values.
 - Built with C++ in Visual Studio.
